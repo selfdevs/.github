@@ -2,7 +2,7 @@
 A healthy environment for everyone where we can be productive together and inspire each other.
 
 
-## Founder 🧑‍💻
+## Founder [@longinteger017](https://www.github.com/longinteger017) 🧑‍💻
 Python enthusiast and a lazy data engineer simplifying life through automation *[...more](https://beacons.ai/longinteger)*
 
 
