@@ -8,7 +8,6 @@ Python enthusiast and a lazy data engineer simplifying life through automation *
 
 ## Links 🔗
 - [Instagram](https://www.instagram.com/self.devs)
-- [self.dev Blog](https://blog.theselfdev.com/) 
-- [self.dev 24/7 co-working stream](https://www.twitch.tv/selfdev_community)
-- [Accountability dashboard](https://dashboard.theselfdev.com/)
-- [Liveclok - Pomodoro](https://liveclok.web.app/)
+- [SELF.DEV Blog](https://blog.theselfdev.com) 
+- [SELF.DEV TV](https://www.twitch.tv/selfdev_community)
+- [SELF.DEV Station](https://station.selfdev.app/)
