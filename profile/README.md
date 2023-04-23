@@ -9,5 +9,5 @@ Python enthusiast and a lazy data engineer simplifying life through automation *
 ## Links 🔗
 - [Instagram](https://www.instagram.com/self.devs)
 - [SELF.DEV Blog](https://blog.theselfdev.com) 
-- [SELF.DEV TV](https://www.twitch.tv/selfdev_community)
+- [SELF.DEV TV](https://www.twitch.tv/selfdev_tv)
 - [SELF.DEV Station](https://station.selfdev.app/)
