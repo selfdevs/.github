@@ -1,5 +1,6 @@
 ## self.dev Community
 A healthy environment for everyone where we can be productive together and inspire each other.
+
 <a href="https://discord.gg/selfdev"><img src="https://github.com/selfdevs/self-dev-logo/blob/main/2023/self_dev_v1.png" width="300" alt="self.dev logo"/></a>
 
 ## Founder [@longinteger017](https://www.github.com/longinteger017) 🧑‍💻
